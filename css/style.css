@@ -1,0 +1,44 @@
+/* debug */
+header {
+    background-color: red;
+    margin-top: 30px;
+    
+}
+
+
+
+
+/* /debug */
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    margin-top: 30px;
+    background-color: yellow;
+    height: 100%;
+}
+
+#container {
+    background-color: green;
+    width: 80%;
+    height: 1000px;
+    margin: auto;
+
+}
+
+
+#div_header_primario{
+    height: 150px;
+    background-color: #e579e6;
+}
+
+#div_header_secondario{
+    margin-top: 25px;
+    height: 500px;
+    background-color: #e1d67a;
+}
