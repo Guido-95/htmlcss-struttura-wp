@@ -1,13 +1,11 @@
 /* debug */
-main{
+main {
     background-color: #0086ff;
-    
 }
 
 #div_header_primario {
     background-color: #e579e6;
 }
-
 
 #div_header_secondario {
     background-color: #e1d67a;
@@ -30,7 +28,6 @@ main{
 }
 
 /* /debug */
-
 
 .clearfix::after {
     content: "";
@@ -57,35 +54,30 @@ header {
 }
 
 /* main */
-main{
+main {
     margin-top: 30px;
-   
     padding:0px 0px 20px 0px;
     width: 100%;
 }
 
 header > #div_header_primario {
-    height: 150px;
-    
+    height: 150px; 
 }
 
 header > #div_header_secondario {
     margin-top: 25px;
     height: 500px;
-   
 }
 
 main > section > .sezione_intestazione {
     height: 100px;
-    margin-bottom: 30px;
-    
+    margin-bottom: 30px;  
 }
 
 main > aside >.aside {
     float: left;
     height: 700px;
     width: 20%;
-  
 }
 
 main > section > .sezione_centrale {
@@ -93,7 +85,6 @@ main > section > .sezione_centrale {
     margin: 0% 2%;
     height: 700px;
     width: 56%;
-   
 }
 
 /* footer */
